@@ -1,0 +1,24 @@
+# Path to the postprocess file with the text to elaborate.
+# required: True
+postproc_file = "ss-tii_postproc.csv"
+# path to the file with the parameters for the ga.
+# required: True
+ga_params = "slrkit.conf/optimize_lda_ga_params.toml"
+# path to the directory where to save the results.
+# required: False
+outdir = "."
+# Column in postproc_file to process. Default: 'abstract_filtered'.
+# required: False
+text-column = "abstract_filtered"
+# Column in postproc_file to use as document title. Default: 'title'.
+# required: False
+title-column = "title"
+# Seed used for training. Default 123
+# required: False
+seed = 123
+# Delimiter used in postproc_file. Default '\t'
+# required: False
+delimiter = "\t"
+# if set, no timestamp is added to the topics file names
+# required: False
+no_timestamp = false

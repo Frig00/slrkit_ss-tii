@@ -1,0 +1,6 @@
+# path to the file with the abstracts of the papers
+# required: True
+abstract_file = "ss-tii_abstracts.csv"
+# path to the file with the classified journals
+# required: True
+journal_file = "ss-tii_journals.csv"

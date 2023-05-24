@@ -1,0 +1,30 @@
+# path to the the preprocess file with the text to elaborate.
+# required: True
+preproc_file = "ss-tii_preproc.csv"
+# path to the file with the classified terms.
+# required: True
+terms_file = "ss-tii_terms.csv"
+# path to the directory where to save the results.
+# required: False
+outdir = "."
+# Output file name. Default or '-' stdout is used
+# required: False
+output = "ss-tii_postproc.csv"
+# Column in preproc_file to process. Default 'abstract_lem'.
+# required: False
+text-column = "abstract_lem"
+# Column in preproc_file to use as document  title. Default 'title'.
+# required: False
+title-column = "title"
+# Column to save filtered data in postproc_file  title. Default 'abstract_filtered'.
+# required: False
+filtered-column = "abstract_filtered"
+# if set, use only the term labelled as keyword
+# required: False
+no-relevant = false
+# Placeholder for barrier word. Also used as a prefix for the relevant words. Default: @
+# required: False
+placeholder = "@"
+# Delimiter used in preproc and postproc files. Default '\t'
+# required: False
+delimiter = "\t"

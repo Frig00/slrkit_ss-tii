@@ -1,0 +1,9 @@
+# input CSV data file
+# required: True
+datafile = "ss-tii_abstracts.csv"
+# output file name
+# required: False
+output = "ss-tii_acronyms.csv"
+# Name of the column of datafile to search the acronyms. Default: abstract
+# required: False
+column = "abstract"

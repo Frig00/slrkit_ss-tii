@@ -1,0 +1,8 @@
+*lda_results/
+slrkit.conf/log/slr-kit.log
+ss-tii_preproc.csv
+ss-tii_abstracts.csv
+*fawoc_data.json
+lda_info*.txt
+lda*.js
+.git

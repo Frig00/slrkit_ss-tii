@@ -1,0 +1,42 @@
+# path to the postprocess file with the text to elaborate.
+# required: True
+postproc_file = "ss-tii_postproc.csv"
+# path to the directory where to save the results.
+# required: False
+outdir = "."
+# Column to process in input file. Default: 'abstract_lem'.
+# required: False
+text-column = "abstract_lem"
+# Column in the input file to use as document title. Default: 'title'.
+# required: False
+title-column = "title"
+# Number of topics. If omitted 20 is used
+# required: False
+topics = 20
+# alpha parameter of LDA. If omitted auto is used. Cannot be less than 1e-20
+# required: False
+alpha = "auto"
+# beta parameter of LDA. If omitted auto is used
+# required: False
+beta = "auto"
+# Keep tokens which are contained in at least this number of documents. If omitted 20 is used
+# required: False
+no_below = 20
+# Keep tokens which are contained in no more than this fraction of documents (fraction of total corpus size, not an absolute number). If omitted 0.5 is used
+# required: False
+no_above = 0.5
+# Seed to be used in training. Default 123
+# required: False
+seed = 123
+# if set, the lda model is saved to directory <outdir>/lda_model. The model is saved with name "model.
+# required: False
+model = false
+# Path to a directory where a previously trained model is saved. Inside this directory the model named "model" is searched. the loaded model is used with the dataset file to generate the topics and the topic document association
+# required: False
+load-model = ""
+# if set, no timestamp is added to the topics file names
+# required: False
+no_timestamp = false
+# Delimiter used in preproc_file. Default '\t'
+# required: False
+delimiter = "\t"

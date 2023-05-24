@@ -1,0 +1,1286 @@
+id	term	label
+0	24-h dietary recall | (24HR)	keyword
+1	3-D user interface | (3DUI)	keyword
+2	6th generation | (6G)	keyword
+3	attention-based deep gated recurrent neural network | (A-DGRNN)	postponed
+4	access hub | (A-Hub)	keyword
+5	adaptive notch filter | (AANF)	keyword
+6	artificial bee colony | (ABC)	keyword
+7	attribute-based encryption | (ABE)	keyword
+8	attribute-based signature | (ABS)	keyword
+9	air conditioning | (AC)	keyword
+10	access control chaincode | (ACC)	keyword
+11	acknowledgment | (ACK)	keyword
+12	acknowledgements | (ACKs)	keyword
+13	ant colony optimization | (ACO)	keyword
+14	annual crop planning | (ACP)	keyword
+15	automotive cyber-physical systems | (ACPS)	keyword
+16	ant colony system | (ACS)	keyword
+17	Alzheimer's disease | (AD)	keyword
+18	adaptive differential evolution | (ADE)	keyword
+19	average dwell-time | (ADT)	keyword
+20	Autoencoder | (AE)	keyword
+21	and-forward | (AF)	noise
+22	adaptive fog configuration | (AFC)	keyword
+23	anomaly feature detection module | (AFDM)	keyword
+24	anomaly feature-editing-based adversarial network | (AFEAN)	keyword
+25	adaptive frequency estimation observer | (AFEO)	keyword
+26	adaptive fast nonsingular integral terminal sliding mode control | (AFNITSMC)	keyword
+27	adaptive full-order observer | (AFO)	keyword
+28	algorithmically generated domains | (AGDs)	keyword
+29	air-ground integrated power Internet of Things | (AGI-PIoT)	keyword
+30	asymmetric group key agreement | (AGKA)	keyword
+31	Automatic gesture recognition | (AGR)	keyword
+32	automated guided vehicles | (AGVs)	keyword
+33	air-handling unit | (AHU)	keyword
+34	artificial intelligence | (AI)	keyword
+35	automatic identification system | (AIS)	keyword
+36	adaptive intelligence technique | (AIT)	keyword
+37	artificial intelligence-based UAV-borne secure communication with classification | (AIUAV-SCC)	keyword
+38	artificial IoT | (AIoT)	keyword
+39	artificial Intelligence of Things | (AIoTs)	keyword
+40	authenticated key agreement | (AKA)	keyword
+41	and key exchange | (AKE)	keyword
+42	active load component | (ALC)	keyword
+43	average load demand | (ALD)	keyword
+44	adaptive learning hybrid model | (ALHM)	keyword
+45	Association link network | (ALN)	keyword
+46	augmented multicenter graph convolutional network | (AM-GCN)	keyword
+47	automatic metering infrastructure | (AMI)	keyword
+48	AutomationML | (AML)	keyword
+49	abnormal model recognition | (AMR)	keyword
+50	autonomous mobility-on-demand | (AMoD)	keyword
+51	and selection function | (ANDSF)	keyword
+52	adaptive neuro-fuzzy inference system | (ANFIS)	keyword
+53	ANFIS-based PID control scheme | (ANFISPID)	keyword
+54	adaptive nonsingular integral terminal sliding mode control | (ANITSMC)	keyword
+55	anisotropic nonlocal structure tensor | (ANLST)	keyword
+56	artificial neural network | (ANN)	keyword
+57	AND/OR graphs | (AOGs)	keyword
+58	areas of interest | (AOIs)	keyword
+59	access point | (AP)	keyword
+60	active power curtailment | (APC)	keyword
+61	artificial potential field | (APF)	keyword
+62	application programming interface | (API)	keyword
+63	application programming interfaces | (APIs)	keyword
+64	automatic packing mechanism | (APM)	keyword
+65	amplitude polynomial principle component regression | (APPCR)	keyword
+66	amplitude polynomial regression | (APR)	keyword
+67	accelerated particle swarm optimization | (APSO)	keyword
+68	access points | (APs)	keyword
+69	augmented reality | (AR)	keyword
+70	and residual refinement network | (AR-Net)	keyword
+71	adversarial regressive domain adaptation | (ARDA)	keyword
+72	autoregressive integrated moving average | (ARIMA)	keyword
+73	autoregressive moving average | (ARMA)	keyword
+74	ancillary service | (AS)	keyword
+75	and-sanitizable chameleon signature | (ASCS)	keyword
+76	autonomic service management | (ASM)	keyword
+77	adaptive sliding-mode observer | (ASMO)	keyword
+78	augmented sliding mode observers | (ASMOs)	keyword
+79	achievable sum-rate | (ASR)	keyword
+80	attention-based spatial-temporal graph neural networks | (ASTGNN)	keyword
+81	abstract syntax trees | (ASTs)	keyword
+82	active time-based | (ATB)	keyword
+83	area under curve | (AUC)	keyword
+84	AUTomotive Open System ARchitecture | (AUTOSAR)	keyword
+85	autonomous underwater vehicles | (AUVs)	keyword
+86	Audio Video Bridging | (AVB)	keyword
+87	autonomous vehicles | (AVs)	keyword
+88	adaptive weighted Gath–Geva | (AWGG)	keyword
+89	air (function) computation | (AirComp)	keyword
+90	age-of-information | (AoI)	keyword
+91	automated machine learning | (AutoML)	keyword
+92	based accountable and privacy-preserving industrial mortgage scheme | (BAPIM)	keyword
+93	batched sparse | (BATS)	keyword
+94	basic belief assignment | (BBA)	keyword
+95	best behavioral scheme | (BBS)	keyword
+96	based secure key management scheme | (BC-EKM)	keyword
+97	beneficial correlated regularization | (BCR)	keyword
+98	big data | (BD)	keyword
+99	based double auction | (BDA)	keyword
+100	binary decision diagram | (BDD)	keyword
+101	brushless doubly fed induction generator | (BDFIG)	keyword
+102	bilinear Diffie-Hellman exponent | (BDHE)	keyword
+103	Bayesian deep learning | (BDL)	keyword
+104	brain emotional nesting network | (BENN)	keyword
+105	bit-error-rate | (BER)	keyword
+106	bidirectional encoder representations from transformers | (BERT)	keyword
+107	bald eagle search | (BES)	keyword
+108	battery energy storage system | (BESS)	keyword
+109	battery energy storage systems | (BESSs)	keyword
+110	blast furnace | (BF)	keyword
+111	biological information | (BI)	keyword
+112	building information model | (BIM)	keyword
+113	based Internet of Things | (BIoT)	keyword
+114	Basic Method | (BM)	keyword
+115	based MCS system | (BMCS)	keyword
+116	based machine learning framework for edge services | (BML-ES)	keyword
+117	biased minimax probability machine | (BMPM)	keyword
+118	building management system | (BMS)	keyword
+119	Bridge modular switched-capacitor converter | (BMSCC)	keyword
+120	Bayesian networks | (BNs)	keyword
+121	Bayesian optimization | (BO)	keyword
+122	blood pressure | (BP)	keyword
+123	blockchain-assisted privacy-preserving authentication system | (BPAS)	keyword
+124	based privacy-aware distributed collection | (BPDC)	keyword
+125	base station | (BS)	keyword
+126	bilinear strong Diffie-Hellman | (BSDH)	keyword
+127	body sensor network | (BSN)	keyword
+128	body sensor networks | (BSNs)	keyword
+129	blind source separation | (BSS)	keyword
+130	battery swapping stations | (BSSs)	keyword
+131	Barely visible impact damage | (BVID)	keyword
+132	binary zigzag decoding | (BZD)	keyword
+133	bidirectional long short-term memory | (Bi-LSTM)	keyword
+134	blockchain-orchestrated edge intelligence | (BoEI)	keyword
+135	command and control | (C&C)	keyword
+136	controller to actuator | (C-A)	keyword
+137	cyber-enabled ship | (C-ES)	keyword
+138	compound transmission control protocol | (C-TCP)	keyword
+139	Classifier 4.5 | (C4.5)	keyword
+140	Continuous authentication | (CA)	keyword
+141	customized access module | (CA-Module)	keyword
+142	coupling autoencoder | (CAE)	keyword
+143	Computer Aided Engineering Exchange | (CAEX)	keyword
+144	controller area network | (CAN)	keyword
+145	controller area network with flexible data-rate | (CAN FD)	keyword
+146	correlation aware scheduling | (CAS)	keyword
+147	Customer baseline load | (CBL)	keyword
+148	Condition-based maintenance | (CBM)	keyword
+149	cognitive computing | (CC)	keyword
+150	canonical correlation analysis | (CCA)	keyword
+151	circular cross-correlation | (CCC)	keyword
+152	charge-coupled Device | (CCD)	keyword
+153	chance constrained dynamic optimization | (CCDO)	keyword
+154	chance constrained dynamic optimization problems | (CCDOPs)	keyword
+155	coordination control policies | (CCP)	keyword
+156	Cross-Device Federated Learning | (CDFL)	keyword
+157	cell division genetic algorithm | (CDGA)	keyword
+158	computational differ-hellman | (CDH)	keyword
+159	cooperative demand response | (CDR)	keyword
+160	connected dominating set | (CDS)	keyword
+161	channel estimation | (CE)	keyword
+162	cooperative evolutionary algorithm | (CEA)	keyword
+163	credit evaluation chaincode | (CEC)	keyword
+164	Critical energy infrastructure | (CEI)	keyword
+165	closed-form expressions | (CFEs)	keyword
+166	composite failure precursor | (CFP)	keyword
+167	carbon fiber reinforced plastic | (CFRP)	keyword
+168	Carbon fiber reinforced plastics | (CFRPs)	keyword
+169	clustering technique by fast search and find of density peaks | (CFSFDP)	keyword
+170	computable general equilibrium | (CGE)	keyword
+171	computer generated holograms | (CGHs)	keyword
+172	chameleon hash | (CH)	keyword
+173	combined heat and power | (CHP)	keyword
+174	Charging infrastructure | (CI)	keyword
+175	Cognitive-inspired Internet of Medical Things | (CI-IoMT)	keyword
+176	confident information coverage | (CIC)	keyword
+177	CIC hole healing | (CICHH)	keyword
+178	cognitive industrial Internet of Things | (CIIoT)	keyword
+179	Cognitive industrial system | (CIS)	keyword
+180	cognitive Internet of Vehicles | (CIoV)	keyword
+181	cooperative jamming | (CJ)	keyword
+182	certificateless provable data possession | (CL-PDP)	keyword
+183	controllable load aggregators | (CLAs)	keyword
+184	cooperative link prediction model | (CLPM)	keyword
+185	cross-level parallel network | (CLPNet)	keyword
+186	certificateless signature | (CLS)	keyword
+187	curve-level structure tensor | (CLST)	keyword
+188	controllable loads | (CLs)	keyword
+189	cloud manufacturing | (CM)	keyword
+190	collaborative mobile clouds | (CMC)	keyword
+191	constrained Markov decision process | (CMDP)	keyword
+192	complementary metal oxide semiconductor | (CMOS)	keyword
+193	cloud manufacturing service ecosystem | (CMSE)	keyword
+194	carnegie mellon university | (CMU)	keyword
+195	Cloud manufacturing | (CMfg)	keyword
+196	Computerized numerical control | (CNC)	keyword
+197	cross-network fusion and scheduling | (CNFS)	keyword
+198	convolutional neural network | (CNN)	keyword
+199	convolutional neural networks | (CNNs)	keyword
+200	control | (CNT)	keyword
+201	center of gravity | (COG)	keyword
+202	coded preamble | (COPE)	keyword
+203	coronavirus disease 2019 | (COVID-19)	keyword
+204	critical path | (CP)	keyword
+205	Cyber-physical cloud systems | (CPCS)	keyword
+206	cyber-physical cloud systems | (CPCSs)	keyword
+207	cyber-physical energy systems | (CPESs)	keyword
+208	Cyber-physical Internet of things system | (CPIoTS)	keyword
+209	clustering with particle for object detection | (CPOD)	keyword
+210	cyber-physical production systems | (CPPS)	keyword
+211	classification of predicted residuals | (CPRs)	keyword
+212	cyber-physical systems | (CPS)	keyword
+213	cyber-physical systems | (CPSs)	keyword
+214	Central Processing Unit | (CPU)	keyword
+215	client-based personalized k-anonymity | (CPkA)	keyword
+216	Computing resource | (CR)	keyword
+217	computation resource allocation | (CRA)	keyword
+218	cyclic redundancy check | (CRC)	keyword
+219	Clustering routing protocol | (CRP)	keyword
+220	computation reloading scheme driven by spatial-temporal mobility | (CRSM)	keyword
+221	cloud-assisted reliable trust computing | (CRTC)	keyword
+222	CR utilization | (CRU)	keyword
+223	compressive sensing | (CS)	keyword
+224	constraints satisfying A∗ | (CSA)	keyword
+225	channel status information | (CSI)	keyword
+226	compressive sensing image enhancement framework using multiple reconstructed signals | (CSIE-M)	keyword
+227	context-sensitive seamless identity provisioning | (CSIP)	keyword
+228	carrier sense multiple access/collision avoidance | (CSMA/CA)	keyword
+229	Camera sensor networks | (CSNs)	keyword
+230	cloud service provider | (CSP)	keyword
+231	cloud service providers | (CSPs)	keyword
+232	Consistent Stream Reservation Protocol | (CSRP)	keyword
+233	charging stations | (CSs)	keyword
+234	computed tomography | (CT)	keyword
+235	cycle time forecasting | (CTF)	keyword
+236	cophase traction power supply system | (CTPSS)	keyword
+237	current unbalance factor | (CUF)	keyword
+238	Cardiovascular diseases | (CVDs)	keyword
+239	cloud-assisted WSNs | (CWSNs)	keyword
+240	code wait to be verified | (CWV)	keyword
+241	cost-efficient computation offloading | (CeCO)	keyword
+242	cloud prediction engine | (Cloud-PE)	keyword
+243	compacted directed acyclic graph | (CoDAG)	keyword
+244	computational shear interferometry | (CoSI)	keyword
+245	concurrent static and dynamic assessment | (ConSDA)	keyword
+246	CNN-based resource optimization approach | (CroApp)	keyword
+247	distribution-locational marginal prices | (D-LMPs)	keyword
+248	distribution phasor measurement unit | (D-PMU)	keyword
+249	difference between the concave function | (D.C.)	keyword
+250	domain adaptation | (DA)	keyword
+251	dynamic authentication credential | (DAC)	keyword
+252	deep adaptive fuzzy clustering algorithm | (DAFC)	keyword
+253	day-ahead market | (DAM)	keyword
+254	domain adaption network | (DAN)	keyword
+255	DAN retraining | (DAN-R)	keyword
+256	dynamic adaptive replacement policy | (DARP)	keyword
+257	dependency-aware task allocation | (DATA)	keyword
+258	Decisional Bilinear Diffie-Hellman | (DBDH)	keyword
+259	deep coupling autoencoder | (DCAE)	keyword
+260	deep convolutional computation model | (DCCM)	keyword
+261	deep class centres uniform distribution neural network | (DCCUD)	keyword
+262	decentralized computation offloading strategy | (DCOS)	keyword
+263	Depth cuboid similarity features | (DCSFs)	keyword
+264	discrete cosine transform | (DCT)	keyword
+265	data centers | (DCs)	keyword
+266	dual disturbances observers | (DDOs)	keyword
+267	deep deterministic policy gradient | (DDPG)	keyword
+268	deep reinforcement learning-based dynamic resource management | (DDRM)	keyword
+269	deep double supervised embedding neural network | (DDSE)	keyword
+270	distributed denial of service | (DDoS)	keyword
+271	Differential evolution | (DE)	keyword
+272	decentralized energy pickup | (DEP)	keyword
+273	distributed energy resource | (DER)	keyword
+274	distributed energy resources | (DERs)	keyword
+275	distributed energy storage system | (DESS)	keyword
+276	directed edge weight prediction model | (DEWP)	keyword
+277	dynamic frame packing | (DFP)	keyword
+278	deep federated Q-learning | (DFQL)	keyword
+279	distributed generation | (DG)	keyword
+280	Digital holography | (DH)	keyword
+281	detecting illegal behavior | (DIB)	keyword
+282	distributed intrusion detection system | (DIDS)	keyword
+283	digital twin edge networks | (DITENs)	keyword
+284	diabetic ketoacidosis | (DKA)	keyword
+285	deep learning | (DL)	keyword
+286	distributed multilevel | (DM)	keyword
+287	digital micromirror devices | (DMDs)	keyword
+288	dynamic multipath privacy-preserving routing | (DMPPR)	keyword
+289	delay-minimized routing | (DMR)	keyword
+290	deep neural network | (DNN)	keyword
+291	deep neural networks | (DNNs)	keyword
+292	distribution network operator | (DNO)	keyword
+293	deterministic network transmission | (DNT)	keyword
+294	deep learning-based one-class intrusion detection scheme | (DO-IDS)	keyword
+295	direction-of-arrival | (DOA)	keyword
+296	disturbance observer | (DOB)	keyword
+297	depth of discharge | (DOD)	keyword
+298	degree-of-freedom | (DOF)	keyword
+299	dynamic orchestration of SFC | (DOS)	keyword
+300	differential privacy | (DP)	keyword
+301	distributed parallel cooperative coevolutionary multiobjective evolutionary algorithm | (DPCCMOEA)	keyword
+302	dynamic pricing based double auction | (DPDA)	keyword
+303	data-based predictive hybrid driven control | (DPHDC)	keyword
+304	delegated proof of stake | (DPoS)	keyword
+305	deep Q-network | (DQN)	keyword
+306	demand response | (DR)	keyword
+307	Dynamic random access memory | (DRAM)	keyword
+308	deep reinforcement learning | (DRL)	keyword
+309	demand response management | (DRM)	keyword
+310	detection rate of normal requests | (DRN)	keyword
+311	deep recurrent neural network | (DRNN)	keyword
+312	distributionally robust optimization | (DRO)	keyword
+313	dynamic resource provisioning method | (DRPM)	keyword
+314	distributed real-time scheduling | (DRTS)	keyword
+315	dead reckoning with dynamic errors | (DRWDEs)	keyword
+316	dynamic spectrum access | (DSA)	keyword
+317	Daily and Sports Activity Dataset | (DSAD)	keyword
+318	design space exploration | (DSE)	keyword
+319	dynamic scanning eddy current pulsed thermography | (DSECPT)	keyword
+320	distributed service framework | (DSF)	keyword
+321	Demand side management | (DSM)	keyword
+322	Deep stacking network | (DSN)	keyword
+323	distribution system operators | (DSO)	keyword
+324	distribution system operators | (DSOs)	keyword
+325	Dynamic searchable symmetric encryption | (DSSE)	keyword
+326	deep supervised t-stochastic neighbor embedding neural network | (DSSNE)	keyword
+327	dynamic SSO | (DSSO)	keyword
+328	decision support systems | (DSSs)	keyword
+329	distribution static compensator | (DSTATCOM)	keyword
+330	Dezert-Smarandache theory | (DSmT)	keyword
+331	Digital twin | (DT)	keyword
+332	deep transfer learning | (DTL)	keyword
+333	dislocated time series CNN | (DTS-CNN)	keyword
+334	digital twin wireless networks | (DTWN)	keyword
+335	D2D user equipments | (DUEs)	keyword
+336	deep variational autoencoder | (DVAE)	keyword
+337	dynamic voltage and frequency scaling | (DVFS)	keyword
+338	directed weighted networks | (DWNs)	keyword
+339	Dynamic wireless sensor networks | (DWSNs)	keyword
+340	data collection | (DaaC)	keyword
+341	densely connected convolutional networks | (DenseNet)	keyword
+342	dense random neural network | (DnRaNN)	keyword
+343	denial-of-service | (DoS)	keyword
+344	Dynamic Limiting | (DynLim)	keyword
+345	enabled Industrial Internet of Things | (E-IIoT)	keyword
+346	efficient web APIs recommendation | (E-WAR)	keyword
+347	electric aircraft | (EA)	keyword
+348	exponential analytic stationary subspace analysis | (EASSA)	keyword
+349	energy blockchain | (EBC)	keyword
+350	electromagnetic band-gap | (EBG)	keyword
+351	equivalent battery life loss cost | (EBLLC)	keyword
+352	electric buses | (EBs)	keyword
+353	edge computing | (EC)	keyword
+354	energy consumption cost | (ECC)	keyword
+355	energy carrier demand response | (ECDR)	keyword
+356	edge computing devices | (ECDs)	keyword
+357	electrocardiogram | (ECG)	keyword
+358	edge cooperative network | (ECN)	keyword
+359	Eddy current pulsed thermography | (ECPT)	keyword
+360	energy-cost-per-useful-bit | (ECPUB)	keyword
+361	edge computing server | (ECS)	keyword
+362	electronic control unit | (ECU)	keyword
+363	electronic control units | (ECUs)	keyword
+364	energy detector | (ED)	keyword
+365	ensemble deep learning based web attack detection system | (EDL-WADS)	keyword
+366	energy data owners | (EDOs)	keyword
+367	experimentable digital twins | (EDTs)	keyword
+368	energy-based detector | (EED)	keyword
+369	Ethernet | (EEE)	keyword
+370	Electroencephalography | (EEG)	keyword
+371	electric elasticity limit | (EEL)	keyword
+372	Energy harvesting | (EH)	keyword
+373	EH cooperative wireless sensor networks | (EHC-WSNs)	keyword
+374	energy harvesting and gain-based resource allocation | (EHGRA)	keyword
+375	electronic health record | (EHR)	keyword
+376	edge-intelligent service placement algorithm | (EISPA)	keyword
+377	equal interval and unequal quantity | (EIUQ)	keyword
+378	energy-Aware load balancing and scheduling | (ELBS)	keyword
+379	extreme learning machine | (ELM)	keyword
+380	event-based load shedding | (ELS)	keyword
+381	energy management | (EM)	keyword
+382	expectation maximization particle filter | (EM-PF)	keyword
+383	empirical mode decomposition | (EMD)	keyword
+384	electromyography | (EMG)	keyword
+385	electric mining haul trucks | (EMHTs)	keyword
+386	Exact Multigraph Matching Search | (EMMS)	keyword
+387	Extremal MultiObjective Genetic Algorithm | (EMOGA)	keyword
+388	electronic medical records | (EMRs)	keyword
+389	Emergency medical services | (EMS)	keyword
+390	electromagnetic transients program | (EMTP)	keyword
+391	empirical orthogonal function | (EOF)	keyword
+392	erasure property | (EP)	keyword
+393	Ethernet Powerlink | (EPL)	keyword
+394	energy-neutral and QoS-Aware protocol | (EQP)	keyword
+395	Energy router | (ER)	keyword
+396	energy routers | (ERs)	keyword
+397	energy storage | (ES)	keyword
+398	Endoscopic submucosal dissection | (ESD)	keyword
+399	Echo state network | (ESN)	keyword
+400	edge service provider | (ESP)	keyword
+401	edge-aided searchable public-key encryption | (ESPE)	keyword
+402	edge service providers | (ESPs)	keyword
+403	energy storage system | (ESS)	keyword
+404	energy storage unit | (ESU)	keyword
+405	edge servers | (ESs)	keyword
+406	energy trading | (ET)	keyword
+407	event-Triggered sampling | (ETS)	keyword
+408	electric vehicle | (EV)	keyword
+409	electric vehicle aggregator | (EVA)	keyword
+410	electric vehicle batteries | (EVBs)	keyword
+411	effective voltage control source | (EVCS)	keyword
+412	electric vehicles | (EVs)	keyword
+413	empirical wavelet transform | (EWT)	keyword
+414	edge prediction engine | (Edge-PE)	keyword
+415	eye-movement and iris recognition based authentication | (EmIr-Auth)	keyword
+416	fog access points | (F-APs)	keyword
+417	fog computing-enabled IIoT | (F-IIoT)	keyword
+418	firefly algorithm | (FA)	keyword
+419	flexible ac transmission system | (FACTS)	keyword
+420	flexible air-breathing hypersonic vehicles | (FAHVs)	keyword
+421	fault and attack location and classification | (FALCON)	keyword
+422	flying ad hoc network | (FANET)	keyword
+423	fresh agricultural products | (FAPs)	keyword
+424	false alarm rate | (FAR)	keyword
+425	fuel cell/battery hybrid vehicles | (FCHVs)	keyword
+426	Fuzzy C-Mean | (FCM)	keyword
+427	fuzzy core vector machine | (FCVM)	keyword
+428	fog devices | (FD)	keyword
+429	fault detection and diagnosis | (FDD)	keyword
+430	fault detection filter | (FDF)	keyword
+431	False data injection | (FDI)	keyword
+432	false data injection attack | (FDIA)	keyword
+433	False data injection attacks | (FDIAs)	keyword
+434	feature decoding module | (FDM)	keyword
+435	flow-enabled distributed mobility anchoring | (FDMA)	keyword
+436	fuzzy disturbance observer | (FDO)	keyword
+437	FEderated Deep rEinforcement leaRning-based multi-lAyer multi-Timescale multi-dImensional resOurce allocatioN algorithm | (FEDERATION)	keyword
+438	fitness evaluation mechanism | (FEM)	keyword
+439	Fourier filter | (FF)	keyword
+440	finite-time fault estimator | (FFE)	keyword
+441	finite-time fault estimator based fault-tolerance control | (FFE-FTC)	keyword
+442	fast Fourier transform | (FFT)	keyword
+443	fully homomorphic encryption | (FHE)	keyword
+444	fairness index | (FI)	keyword
+445	flexible industrial demand | (FID)	keyword
+446	federated learning | (FL)	keyword
+447	frequency modulated continuous wave | (FMCW)	keyword
+448	failure modes, effects, and criticality analysis | (FMECA)	keyword
+449	fused magnesia smelting process | (FMSP)	keyword
+450	fast NITSM | (FNITSM)	keyword
+451	fuzzy neural network | (FNN)	keyword
+452	false-negative rate | (FNR)	keyword
+453	fog nodes | (FNs)	keyword
+454	Field of view | (FOV)	keyword
+455	false positive | (FP)	keyword
+456	field-programmable gate array | (FPGA)	keyword
+457	Frequency response analysis | (FRA)	keyword
+458	fuzzy-based real-time autoscaling | (FRAS)	keyword
+459	fuzzy relative entropy | (FRE)	keyword
+460	frequency response traces | (FRTs)	keyword
+461	feature selection | (FS)	keyword
+462	flare soot density recognition network | (FSDR-Net)	keyword
+463	few-shot learning model with Siamese convolutional neural network | (FSL-SCNN)	keyword
+464	fast steering mirrors | (FSMs)	keyword
+465	federated tensor decomposition | (FTD)	keyword
+466	Fourier transform IR | (FTIR)	keyword
+467	federated tensor mining | (FTM)	keyword
+468	forwarding and time-slotted channel hopping scheduling over SDN | (FTS-SDN)	keyword
+469	fast terminal sliding mode control | (FTSMC)	keyword
+470	femtocell users | (FUEs)	keyword
+471	fetal ultrasound standard plane recognition | (FUSPR)	keyword
+472	fingerprint-weighting KNN | (FWKNN)	keyword
+473	fuzzy weighted with zero inconsistency | (FWZIC)	keyword
+474	file-centric multi-key aggregate keyword searchable encryption | (Fc-MKA-KSE)	keyword
+475	Fog computing-based radio access network | (Fog-RAN)	keyword
+476	fuzzy v-support vector machine | (Fv-SVM)	keyword
+477	genetic algorithm | (GA)	keyword
+478	genetic algorithm combined with ANN | (GA-ANN)	keyword
+479	genetic algorithm back propagation neural network | (GABP)	keyword
+480	Generative Adversarial Imitation Learning | (GAIL)	keyword
+481	generative adversarial models | (GAMs)	keyword
+482	generative adversarial network | (GAN)	keyword
+483	generating adversarial examples with shadow model | (GASM)	keyword
+484	gradient boosting decision tree | (GBDT)	keyword
+485	global context feature editing module | (GCFEM)	keyword
+486	generalized correntropy loss | (GCL)	keyword
+487	graph convolutional network for code clone detection | (GCN-CC)	keyword
+488	gated dual attention unit | (GDAU)	keyword
+489	guidance based deep deterministic policy gradient | (GDDPG)	keyword
+490	global efficiency | (GE)	keyword
+491	Graphene-based Energy Cooperation Management | (GECM)	keyword
+492	Grid-connected electric vehicles | (GEVs)	keyword
+493	greedy forwarding pattern | (GFP)	keyword
+494	Gath-Geva fuzzy clustering | (GGFC)	keyword
+495	Gaussian mixture model | (GMM)	keyword
+496	generalized multiperiod economic dispatch | (GMPED)	keyword
+497	generalized neural continual learning-based cybertwin | (GNC)	keyword
+498	graph neural networks | (GNN)	keyword
+499	graph neural network-based social recommendation framework | (GNN-SoR)	keyword
+500	general-purpose optimized initial parameters | (GOIP)	keyword
+501	Gaussian process | (GP)	keyword
+502	green parallel online offloading algorithm | (GPOOA)	keyword
+503	general-purpose processor | (GPP)	keyword
+504	global positioning system | (GPS)	keyword
+505	greedy perimeter stateless routing algorithm | (GPSR)	keyword
+506	graphics processing unit | (GPU)	keyword
+507	graphics processing units | (GPUs)	keyword
+508	grey relational analysis-technique for order of preference by similarity to ideal solution | (GRA-TOPSIS)	keyword
+509	gated recurrent unit-recurrent neural network | (GRU-RNN)	keyword
+510	Gaussian window | (GW)	keyword
+511	grey wolf algorithm | (GWA)	keyword
+512	gray wolf optimization | (GWO)	keyword
+513	high-altitude platform | (HAP)	keyword
+514	high-altitude platform station | (HAPS)	keyword
+515	human activity recognition | (HAR)	keyword
+516	half-bridge | (HB)	keyword
+517	heterogeneous brain storming | (HBS)	keyword
+518	hill climbing | (HC)	keyword
+519	human cyber-physical systems | (HCPSs)	keyword
+520	hybrid charging stations | (HCSs)	keyword
+521	high-density EEG | (HD-EEG)	keyword
+522	high-density surface electromyogram | (HD-sEMG)	keyword
+523	hybrid energy storage systems | (HESS)	keyword
+524	hybrid energy systems | (HESs)	keyword
+525	high-frequency | (HF)	keyword
+526	high-frequency ac | (HFAC)	keyword
+527	heterogeneous graph of things | (HGoT)	keyword
+528	hydraulic heavy duty manipulators | (HHDMs)	keyword
+529	Harris hawks optimization-integer wavelet transform | (HHO-IWT)	keyword
+530	health indicator | (HI)	keyword
+531	hardware-in-the-loop | (HIL)	keyword
+532	health monitoring and diagnosis | (HM&D)	keyword
+533	high-order, high-dimension, and sparse tensor | (HOHDST)	keyword
+534	high-performance computing | (HPC)	keyword
+535	heart rate | (HR)	keyword
+536	hot rolling mill | (HRM)	keyword
+537	hot strip mill process | (HSMP)	keyword
+538	high throughput congestion control | (HTCC)	keyword
+539	heavy-tailed mixture | (HTM)	keyword
+540	high voltage | (HV)	keyword
+541	heating, ventilation, and air-conditioning | (HVAC)	keyword
+542	Heating Ventilation and Air Conditioning systems | (HVACs)	keyword
+543	hydrogen-powered vehicles | (HVs)	keyword
+544	industrial cyber-physical systems | (I-CPS)	keyword
+545	input/output | (I/O)	keyword
+546	industrial automation and control systems | (IACS)	keyword
+547	industrial artificial intelligence | (IAI)	keyword
+548	instantaneous angular speed | (IAS)	keyword
+549	identity-based seamless privacy preservation | (IB-SPP)	keyword
+550	industrial big data | (IBD)	keyword
+551	Improved BM | (IBM)	keyword
+552	imperialistic competitive algorithm | (ICA)	keyword
+553	inductive content augmented network embedding | (ICANE)	keyword
+554	iterative closest point | (ICP)	keyword
+555	industrial cyber-physical systems | (ICPS)	keyword
+556	industrial cyber-physical systems | (ICPSs)	keyword
+557	industrial cognitive radio networks | (ICRNs)	keyword
+558	industrial control systems | (ICS)	keyword
+559	industrial control systems | (ICSs)	keyword
+560	information and communications technology | (ICT)	keyword
+561	integrated circuits | (ICs)	keyword
+562	information decoding | (ID)	keyword
+563	Iterative Dichotomiser 3 | (ID3)	keyword
+564	intermediate distribution alignment | (IDA)	keyword
+565	integrated design and control | (IDC)	keyword
+566	improved differential evolution algorithm | (IDE)	keyword
+567	intraday demand response exchange | (IDRX)	keyword
+568	intrusion detection system | (IDS)	keyword
+569	intrusion detection systems | (IDSs)	keyword
+570	intelligent devices | (IDs)	keyword
+571	information-dependent embedding-based diffusion prediction | (IEDP)	keyword
+572	improved Elman neural network | (IENN)	keyword
+573	integrated energy system | (IES)	keyword
+574	if this then that | (IFTTT)	keyword
+575	information greedy feature filter | (IGFF)	keyword
+576	improved Gaussian mixture regression | (IGMR)	keyword
+577	IP-based Handover/offload system assisted by E-ANDSF | (IHEAD)	keyword
+578	iterative Hungarian method with virtual devices | (IHM-VD)	keyword
+579	information | (II)	keyword
+580	Imitation-based Distributed Coordination | (IIDC)	keyword
+581	IIoT equipments | (IIEs)	keyword
+582	Internet-of-Things hub | (IIHub)	keyword
+583	Induction infrared thermography | (IIT)	keyword
+584	Industrial Internet of Things | (IIoT)	keyword
+585	Intelligent IoT Healthcare | (IIoTH)	keyword
+586	industrial Internet of Things | (IIoTs)	keyword
+587	Industrial Internet of unmanned aerial vehicles | (IIoUAVs)	keyword
+588	industrial Internet-of-Vehicles | (IIoV)	keyword
+589	inside keyword guessing attack | (IKGA)	keyword
+590	imitation learning-based flow scheduling | (ILFS)	keyword
+591	induction motor | (IM)	keyword
+592	IoT mobile devices | (IMDs)	keyword
+593	interacting multiple models | (IMMs)	keyword
+594	inertial measurement units | (IMUs)	keyword
+595	In-band Network Telemetry | (INT)	keyword
+596	Internet of Things | (IOT)	keyword
+597	identity Protected Console Grid based Authentication and Key Agreement | (IPG-AKA)	keyword
+598	interior permanent magnet synchronous motor | (IPMSM)	keyword
+599	interphase reactor | (IPR)	keyword
+600	improved particle swarm optimization | (IPSO)	keyword
+601	Internet protocol television | (IPTV)	keyword
+602	improved quantum-behaved particle swarm optimization algorithm | (IQPSO)	keyword
+603	Infrared | (IR)	keyword
+604	intelligent resilience controller | (IRC)	keyword
+605	integrated robust design and robust control | (IRDRC)	keyword
+606	infrared thermography | (IRT)	keyword
+607	intelligent system | (IS)	keyword
+608	intelligent sensing devices | (ISDs)	keyword
+609	integral sliding-mode | (ISM)	keyword
+610	information technology cum operation technology | (IT/OT)	keyword
+611	independent third party | (ITP)	keyword
+612	intelligent transportation system | (ITS)	keyword
+613	integrated virtualization | (IV)	keyword
+614	industrial vehicles | (IVs)	keyword
+615	Industrial wireless networks | (IWNs)	keyword
+616	Industrial wireless sensor and actuator networks | (IWSANs)	keyword
+617	Industrial wireless sensor networks | (IWSN)	keyword
+618	Industrial wireless sensor networks | (IWSNs)	keyword
+619	Internet of Everything | (IoE)	keyword
+620	Internet of Medical Things | (IoMT)	keyword
+621	Internet of Things | (IoT)	keyword
+622	IoT nonnegative matrix factorization | (IoT-NMF)	keyword
+623	Internet of Things | (IoTs)	keyword
+624	Internet of Vehicles | (IoV)	keyword
+625	isometric feature mapping | (Isomap)	keyword
+626	joint high-order orthogonal iterative | (J-HOOI)	keyword
+627	Just-in-time learning | (JITL)	keyword
+628	joint photographic experts group | (JPEG)	keyword
+629	job shop scheduling problems | (JSP)	keyword
+630	key compromise impersonation | (KCI)	keyword
+631	kernel density estimation | (KDE)	keyword
+632	Kalman filters | (KFs)	keyword
+633	knowledge graph | (KG)	keyword
+634	knowledge graphs | (KGs)	keyword
+635	Karush-Kuhn-Tucker | (KKT)	keyword
+636	Kullback-Leibler | (KL)	keyword
+637	k-nearest neighbor | (KNN)	keyword
+638	key performance indicators | (KPIs)	keyword
+639	learning-based hill climbing | (L-HC)	keyword
+640	longitudinal analysis of composite kernels | (LACK)	keyword
+641	low-altitude platforms | (LAPs)	keyword
+642	local binary patterns | (LBP)	keyword
+643	location based social network embedding | (LBSNE)	keyword
+644	location-based social networks | (LBSNs)	keyword
+645	liquid crystal | (LC)	keyword
+646	learning-based cooperative particle swarm optimization | (LCPSO)	keyword
+647	linear discriminant analysis | (LDA)	keyword
+648	linear drop outs | (LDOs)	keyword
+649	local-differential-privacy-based deep reinforcement learning | (LDP-DRL)	keyword
+650	light emitting diode | (LED)	keyword
+651	lithium-ion battery | (LIB)	keyword
+652	line integral convolution | (LIC)	keyword
+653	light detection and ranging | (LIDAR)	keyword
+654	latency topology management and TSCH scheduling | (LLTT)	keyword
+655	level-one edge devices | (LOEDs)	keyword
+656	local outlier factor | (LOF)	keyword
+657	location privacy-preserving mechanism based on trajectory obfuscation | (LPMT)	keyword
+658	limited preemptive scheduling | (LPS)	keyword
+659	Low-power wide-Area networks | (LPWANs)	keyword
+660	linear regression | (LR)	keyword
+661	least recently used | (LRU)	keyword
+662	Load shedding | (LS)	keyword
+663	least square support vector machines | (LS-SVM)	keyword
+664	load serving entities | (LSEs)	keyword
+665	local service pool | (LSP)	keyword
+666	lightweight SPE | (LSPE)	keyword
+667	learning-based secure routing algorithm | (LSRA)	keyword
+668	least square support vector machine Bayesian network decision tree | (LSSVM-BNDT)	keyword
+669	long short term memory | (LSTM)	keyword
+670	long-term evolution | (LTE)	keyword
+671	long term evolution-unlicensed | (LTE-U)	keyword
+672	low-voltage | (LV)	keyword
+673	low-voltage ride-through | (LVRT)	keyword
+674	lithium-ion | (Li-ion)	keyword
+675	lightweight break-glass access control | (LiBAC)	keyword
+676	local gated recurrent unit | (LocalGRU)	keyword
+677	Multiaccess mobile edge computing | (MA-MEC)	keyword
+678	maximum amplitude algorithm | (MAA)	keyword
+679	medium access control | (MAC)	keyword
+680	mean absolute error | (MAE)	keyword
+681	Maximum A Posteriori | (MAP)	keyword
+682	multivariate adaptive regression splines | (MARS)	keyword
+683	multiagent system | (MAS)	keyword
+684	multiple algorithm service model | (MASM)	keyword
+685	multibranch network | (MBN)	keyword
+686	multiconnectivity | (MC)	keyword
+687	mobile cognitive ad hoc networks | (MCADNs)	keyword
+688	Mobile cloud computing | (MCC)	keyword
+689	multi-criteria decision-making | (MCDM)	keyword
+690	mild cognitive impaired | (MCI)	keyword
+691	Markov chain quasi-Monte-Carlo | (MCQMC)	keyword
+692	mobile crowd sensing | (MCS)	keyword
+693	motor current signature analysis | (MCSA)	keyword
+694	Matrix Completion Problem via TRNM | (MCTRNM)	keyword
+695	microcontroller unit | (MCU)	keyword
+696	mobile devices | (MD)	keyword
+697	monocular depth estimation | (MDE)	keyword
+698	medical-assisted diagnosis model as a service | (MDMaaS)	keyword
+699	Markov decision process | (MDP)	keyword
+700	multiple-strategies differential privacy framework on STF | (MDPSTF)	keyword
+701	multihop Delaunay triangulation | (MDT)	keyword
+702	mobile devices | (MDs)	keyword
+703	mean error | (ME)	keyword
+704	multiaccess edge computing | (MEC)	keyword
+705	multivector energy distribution systems | (MEDS)	keyword
+706	maximum-entropy Markov model | (MEMM)	keyword
+707	magnetic flux density | (MFD)	keyword
+708	modified-first-fit decreasing | (MFFD)	keyword
+709	multifunction robot | (MFR)	keyword
+710	microgrid | (MG)	keyword
+711	microgrid operator | (MGO)	keyword
+712	microgrids | (MGs)	keyword
+713	Multihead attention | (MHA)	keyword
+714	multihub driven attention network | (MHDANet)	keyword
+715	Metropolis-Hastings random walk | (MHRW)	keyword
+716	maximum information coefficient | (MIC)	keyword
+717	modified independent component analysis | (MICA)	keyword
+718	Multilayer Inverted Index | (MII)	keyword
+719	mixed integer linear programming | (MILP)	keyword
+720	multiple-input multiple-output | (MIMO)	keyword
+721	Multiple-input-multiple-output filter bank multicarrier | (MIMO-FBMC)	keyword
+722	mixed-integer quadratically constrained programming | (MIQCP)	keyword
+723	man-in-the-middle | (MITM)	keyword
+724	multiple kernel clustering | (MKC)	keyword
+725	multiple knapsack problem | (MKP)	keyword
+726	machine learning | (ML)	keyword
+727	multilayer extreme learning machine | (ML-ELM)	keyword
+728	multilabel one-dimensional (1-D) generation adversarial network | (ML1-D-GAN)	keyword
+729	multitask learning deep belief network | (MLDBN)	keyword
+730	multilevel inverter | (MLI)	keyword
+731	mixed model assembly | (MMA)	keyword
+732	mobile marine microgrids | (MMMGs)	keyword
+733	modified MPA | (MMPA)	keyword
+734	minimum mean square error | (MMSE)	keyword
+735	Mobile network operators | (MNOs)	keyword
+736	multiobjective evolutionary algorithms | (MOEAs)	keyword
+737	multiobjective large-scale optimization problems | (MOLSOPs)	keyword
+738	multiobjective predictive control | (MOPC)	keyword
+739	multiobject tracking | (MOT)	keyword
+740	marine predators algorithm | (MPA)	keyword
+741	modified Pareto ant colony optimization | (MPACO)	keyword
+742	model predictive control | (MPC)	keyword
+743	multiple perspective-cuts outer approximation method | (MPC-OAM)	keyword
+744	maximum power point tracking | (MPPT)	keyword
+745	multipulse rectifier | (MPR)	keyword
+746	multipath transmission control protocol | (MPTCP)	keyword
+747	MapReduce-based MDBO | (MR-MDBO)	keyword
+748	modified RC | (MRC)	keyword
+749	Markov random field | (MRF)	keyword
+750	Manta ray foraging optimization | (MRFO)	keyword
+751	Manufacturing service | (MS)	keyword
+752	manufacturing service composition | (MSC)	keyword
+753	mixed sampling scheme | (MSE)	keyword
+754	multi-source input neural network | (MSINN)	keyword
+755	mechanism | (MSM)	postponed
+756	mobile social networks | (MSNs)	keyword
+757	multiscale transfer mechanism | (MSTM)	keyword
+758	multiscale transfer voting mechanism | (MSTVM)	keyword
+759	machine-type communication | (MTC)	keyword
+760	multitask-based temporal-channelwise convolutional neural network | (MTCCNN)	keyword
+761	moving target defense | (MTD)	keyword
+762	multitask learning | (MTL)	keyword
+763	map-to-point | (MTP)	keyword
+764	multitask policy adversarial learning | (MTPAL)	keyword
+765	multitask reinforcement learning | (MTRL)	keyword
+766	multiple transfer voting mechanisms | (MTVM)	keyword
+767	mobile terminals | (MTs)	keyword
+768	modified unsupervised DVAE | (MUDVAE)	keyword
+769	macrocell user | (MUE)	keyword
+770	momentum update and rank propagation | (MURP)	keyword
+771	multiuser searchable encryption | (MUSE)	keyword
+772	medium-voltage | (MV)	keyword
+773	Multiview video summarization | (MVS)	keyword
+774	mobile vehicles | (MVs)	keyword
+775	metaheuristic with blockchain based resource allocation technique | (MWBA-RAT)	keyword
+776	many-objective | (MaO)	keyword
+777	migrating consignment region | (MiCR)	keyword
+778	Man-in-the-Middle | (MitM)	keyword
+779	neural architecture search | (NAS)	keyword
+780	nucleic acid testing | (NAT)	keyword
+781	Narrow Band IoT | (NB-IoT)	keyword
+782	narrowband interference | (NBI)	keyword
+783	Network mobility basic support protocol | (NBSP)	keyword
+784	networked control systems | (NCS)	keyword
+785	Networked control systems | (NCSs)	keyword
+786	nondestructive imaging | (NDI)	keyword
+787	Named Data Networking | (NDN)	keyword
+788	Nondestructive testing | (NDT)	keyword
+789	nondestructive testing and evaluation | (NDT&E)	keyword
+790	Network Elephants Learner and anaLYzer | (NELLY)	keyword
+791	named entity recognition | (NER)	keyword
+792	network function virtualization | (NFV)	keyword
+793	network in box | (NIB)	keyword
+794	Nonintrusive load monitoring | (NILM)	keyword
+795	Near-infrared | (NIR)	keyword
+796	nonsingular integral terminal sliding mode | (NITSM)	keyword
+797	no input-output direct links and no output bias | (NLNB)	keyword
+798	neural network | (NN)	keyword
+799	neural network-based model predictive control scheme | (NNMPC)	keyword
+800	noncausal optimal control | (NNOC)	keyword
+801	nonorthogonal multiple access | (NOMA)	keyword
+802	neutral point | (NP)	keyword
+803	network power consumption | (NPC)	keyword
+804	net present value | (NPV)	keyword
+805	Network Simulator 2 | (NS2)	keyword
+806	nondominated sorting and bidirectional local search | (NSBLS)	keyword
+807	nondominated sorting genetic algorithm-II | (NSGA-II)	keyword
+808	NIB task migration method | (NTM)	keyword
+809	nonlinear ultrasound | (NU)	keyword
+810	not only SQL | (NoSQL)	keyword
+811	operations and maintenance | (O&M)	keyword
+812	Optical cloud radio access network | (O-CRAN)	keyword
+813	on-condition maintenance | (OCM)	keyword
+814	open-circuit voltage | (OCV)	keyword
+815	offloading decision | (OD)	keyword
+816	overall failure index | (OFI)	keyword
+817	overhead lines | (OHL)	keyword
+818	overlapping and hierarchical social clustering model | (OHSC)	keyword
+819	orthogonal multiple access | (OMA)	keyword
+820	operating procedure | (OP)	keyword
+821	open platform communications | (OPC)	keyword
+822	open platform communications unified architecture | (OPC UA)	keyword
+823	optimal power flow | (OPF)	keyword
+824	operating system | (OS)	keyword
+825	optimal small buffer | (OSB)	keyword
+826	online service function chain deployment | (OSFCD)	keyword
+827	optical scanning holography | (OSH)	keyword
+828	one-hop-based social-aware incentive mechanism | (OSIM)	keyword
+829	online swarm intelligent programming | (OSIP)	keyword
+830	open shortest path first | (OSPF)	keyword
+831	optical scanning tilt holography | (OSTH)	keyword
+832	power allocation | (PA)	keyword
+833	pickup-and-place | (PAP)	keyword
+834	policy and action reinforcement learning | (PARL)	keyword
+835	preserving bilateral access control scheme with fine granularity | (PBAC-FG)	keyword
+836	Position-based services | (PBSs)	keyword
+837	Personal computer | (PC)	keyword
+838	principal components analysis | (PCA)	keyword
+839	printed circuit board assembly | (PCBA)	keyword
+840	predictive current control | (PCC)	keyword
+841	phase-change memory | (PCM)	keyword
+842	proportional conflict redistribution-6 | (PCR6)	keyword
+843	proxy cloud service provider | (PCSP)	keyword
+844	principal component thermography | (PCT)	keyword
+845	position diversity | (PD)	keyword
+846	phasor data concentrator | (PDC)	keyword
+847	probability density function | (PDF)	keyword
+848	permutation disalignment index | (PDI)	keyword
+849	privacy-aware deployment method | (PDM)	keyword
+850	power distribution network | (PDN)	keyword
+851	pooling-based deep neural network | (PDNN)	keyword
+852	post-decision state | (PDS)	keyword
+853	power delivery vehicle | (PDV)	keyword
+854	Pervasive edge computing | (PEC)	keyword
+855	privacy-enhanced federated learning | (PEFL)	keyword
+856	public-key encryption with keyword search | (PEKS)	keyword
+857	polymer electrolyte membrane fuel cell | (PEMFC)	keyword
+858	plug-in electric vehicle | (PEV)	keyword
+859	plug-in electric vehicles | (PEVs)	keyword
+860	power flow distribution | (PFD)	keyword
+861	potential failure precursors | (PFPs)	keyword
+862	perfect forward secrecy | (PFS)	keyword
+863	platoon head | (PH)	keyword
+864	plug-in hybrid electric vehicle | (PHEV)	keyword
+865	plug-in hybrid EVs | (PHEVs)	keyword
+866	pseudo-honeypot game | (PHG)	keyword
+867	personal health record | (PHR)	keyword
+868	physical layer | (PHY)	keyword
+869	Physical layer authentication | (PHY-AUC)	keyword
+870	Physical-layer key agreement with User Introduced Randomness | (PHY-UIR)	keyword
+871	prediction interval | (PI)	keyword
+872	proportional-integral-derivative | (PID)	keyword
+873	prediction intervals | (PIs)	keyword
+874	pseudoknowledge distillation | (PKD)	keyword
+875	public-key infrastructure | (PKI)	keyword
+876	programmable logic controller | (PLC)	keyword
+877	Programmable logic controllers | (PLCs)	keyword
+878	packet loss ratio | (PLR)	keyword
+879	previous mobile access gateway | (PMAG)	keyword
+880	policy management chaincode | (PMC)	keyword
+881	predictive model markup language | (PMML)	keyword
+882	Pontryagin's minimum principle | (PMP)	keyword
+883	permanent magnet synchronous motor | (PMSM)	keyword
+884	permanent magnet synchronous machines | (PMSMs)	keyword
+885	permanent magnet temperature | (PMT)	keyword
+886	phasor measurement unit | (PMU)	keyword
+887	phasor measurement units | (PMUs)	keyword
+888	platoon members | (PMs)	keyword
+889	pseudonoise | (PN)	keyword
+890	proxy NEMO | (PNEMO)	keyword
+891	power normalized kernel least mean fourth algorithm based neural network (NN) control | (PNKLMF-NN)	keyword
+892	probability of detection | (POD)	keyword
+893	points of interests | (POI)	keyword
+894	point of interests | (POIs)	keyword
+895	probabilistic optimal power flow | (POPF)	keyword
+896	privacy-preserving compressive sensing | (PPCS)	keyword
+897	photoplethysmography | (PPG)	keyword
+898	priority-aware packet transmission scheduling | (PPTS)	keyword
+899	power quality | (PQ)	keyword
+900	PQ disturbances | (PQD)	keyword
+901	PollResponse Chaining | (PRC)	keyword
+902	proxy reencryption | (PRE)	keyword
+903	Polynomial regression mixture | (PRM)	keyword
+904	parallel redundancy protocol | (PRP)	keyword
+905	Participatory sensing | (PS)	keyword
+906	power spectral density | (PSD)	keyword
+907	performance supervised fault detection | (PSFD)	keyword
+908	private set intersection | (PSI)	keyword
+909	particle swarm optimization | (PSO)	keyword
+910	parallel sequence spread spectrum | (PSSS)	keyword
+911	pumped storage units | (PSUs)	keyword
+912	predictive torque control | (PTC)	keyword
+913	preceding target vehicles | (PTVs)	keyword
+914	pan-tilt-zoom | (PTZ)	keyword
+915	primary user | (PU)	keyword
+916	Physically unclonable functions | (PUFs)	keyword
+917	primary users | (PUs)	keyword
+918	photovoltaic | (PV)	keyword
+919	pulse width modulation | (PWM)	keyword
+920	predictivemaintenance | (PdM)	keyword
+921	priority-driven swapping | (PdS)	keyword
+922	Proof of Chance | (PoCh)	keyword
+923	Proof of Stake | (PoS)	keyword
+924	proof-of-work | (PoW)	keyword
+925	quadratic 3-D assignment problem | (Q3AP)	keyword
+926	quantitative fault indicator | (QFI)	keyword
+927	quantum key GRID for authentication and key agreement | (QKG-AKA)	keyword
+928	quasi-oppositional search and rescue optimization | (QO-SRO)	keyword
+929	quick response | (QR)	keyword
+930	quantile regression neural network | (QRNN)	keyword
+931	quasi-resonant switched-capacitor | (QRSC)	keyword
+932	QRSC circuit | (QRSCC)	keyword
+933	quality of crowdsensing services | (QoCS)	keyword
+934	quality of experience | (QoE)	keyword
+935	quality of the results | (QoRs)	keyword
+936	quality of service | (QoS)	keyword
+937	quality of tracking | (QoT)	keyword
+938	rate adaptation | (RA)	keyword
+939	random sample consensus | (RANSAC)	keyword
+940	redactable blockchain | (RB)	keyword
+941	regeneration braking energy | (RBE)	keyword
+942	radial basis function | (RBF)	keyword
+943	radial basis function neural network | (RBFNN)	keyword
+944	reference broadcast infrastructure synchronization | (RBIS)	keyword
+945	repetitive controller | (RC)	keyword
+946	rolling contact fatigue | (RCF)	keyword
+947	revocable chameleon hash | (RCH)	keyword
+948	regions with convolutional neural networks features | (RCNN)	keyword
+949	robotic digital twin | (RDT)	keyword
+950	renewable energy | (RE)	keyword
+951	rooted elliptic curve cryptography with Vigenère cipher | (RECC-VC)	keyword
+952	resource | (RES)	keyword
+953	regional energy service provider | (RESP)	keyword
+954	Representational state transfer | (REST)	keyword
+955	resources | (RESs)	keyword
+956	radio frequency | (RF)	keyword
+957	Radio frequency identification | (RFID)	keyword
+958	red-green-blue | (RGB)	keyword
+959	recursive hybrid variable monitoring | (RHVM)	keyword
+960	reproducing kernel Hilbert spaces | (RKHSs)	keyword
+961	reinforcement learning | (RL)	keyword
+962	residual learning diagnosis detection | (RLDD)	keyword
+963	reusable launch vehicles | (RLVs)	keyword
+964	robust model predictive control | (RMPC)	keyword
+965	root mean square | (RMS)	keyword
+966	root mean squared error | (RMSE)	keyword
+967	robust multiview prototype | (RMVP)	keyword
+968	recurrent neural network | (RNN)	keyword
+969	relay nodes | (RNs)	keyword
+970	region of interest | (ROI)	keyword
+971	random oracle model | (ROM)	keyword
+972	Range-Pulse | (RP)	keyword
+973	reactive power injection | (RPI)	keyword
+974	rewritable Petri nets | (RPNs)	keyword
+975	Raspberry Pi | (RPi)	keyword
+976	remote radio heads | (RRHs)	keyword
+977	random subspace | (RS)	keyword
+978	retrieval and storage-based indexing framework | (RSIF)	keyword
+979	relay-based social-aware incentive mechanism | (RSIM)	keyword
+980	rate selection for industrial networks | (RSIN)	keyword
+981	recommended spare parts lists | (RSPLs)	keyword
+982	received signal strength | (RSS)	keyword
+983	received signal strength indicator | (RSSI)	keyword
+984	roadside units | (RSUs)	keyword
+985	random tree | (RT)	keyword
+986	real-time application interface for Linux | (RTAI)	keyword
+987	real-time big data gathering | (RTBDG)	keyword
+988	real-time deterministic scheduling | (RTDS)	keyword
+989	real-time Ethernet | (RTE)	keyword
+990	residential unit | (RU)	keyword
+991	remaining useful life | (RUL)	keyword
+992	random vector functional-link network | (RVFL)	keyword
+993	refrigerated vehicle’s | (RV’s)	keyword
+994	random Fourier feature | (RffAe)	keyword
+995	regions of interest | (RoIs)	keyword
+996	spherical FWZIC | (S-FWZIC)	keyword
+997	semi-Markov switching systems | (S-MSSs)	keyword
+998	subchannel assignment | (SA)	keyword
+999	server-aided ABS with revocation | (SA-ABSR)	keyword
+1000	self-attention-based bidirectional long short term memory | (SA-BiLSTM)	keyword
+1001	sample average approximation | (SAA)	keyword
+1002	selected allocation codebook | (SAC)	keyword
+1003	sparse autoencoder | (SAE)	keyword
+1004	stacked autoencoders | (SAEs)	keyword
+1005	supervised aggregative feature extraction | (SAFE)	keyword
+1006	seamless authentication protocol | (SAP)	keyword
+1007	strategy based on the Particle Swarm algorithm | (SAPS)	keyword
+1008	successive approximation register | (SAR)	keyword
+1009	satisfiability | (SAT)	keyword
+1010	social-based localization algorithm | (SBL)	keyword
+1011	small base stations | (SBSs)	keyword
+1012	smart collaborative automation | (SCA)	keyword
+1013	supervisory control and data acquisition | (SCADA)	keyword
+1014	subtractive clustering method | (SCM)	keyword
+1015	sensor-cloud system | (SCS)	keyword
+1016	Space Clustering Model via TRNM | (SCTRNM)	keyword
+1017	security constraint unit commitment | (SCUC)	keyword
+1018	satisfaction degree | (SD)	keyword
+1019	stacked denoising autoencoder | (SDAE)	keyword
+1020	Surface defect classification | (SDC)	keyword
+1021	software-defined data center networks | (SDDCNs)	keyword
+1022	standard deviation of the error | (SDE)	keyword
+1023	software-defined industrial networks | (SDIN)	keyword
+1024	software-defined networking | (SDN)	keyword
+1025	semantic-driven subtractive clustering method | (SDSCM)	keyword
+1026	sparse DSN | (SDSN)	keyword
+1027	small disturbance stability region | (SDSR)	keyword
+1028	supervised DVAE | (SDVAE)	keyword
+1029	software defined wide area network | (SDWAN)	keyword
+1030	sequential Nash equilibrium | (SE)	keyword
+1031	solar energy conversion system | (SECS)	keyword
+1032	sequential ensemble noise filter | (SENF)	keyword
+1033	spreading factor | (SF)	keyword
+1034	service function chain | (SFC)	keyword
+1035	service function chains | (SFCs)	keyword
+1036	self-feedback incremental fuzzy neural network | (SFIFN)	keyword
+1037	surface forwarding pattern | (SFP)	keyword
+1038	smart grid | (SG)	keyword
+1039	stochastic gradient descent | (SGD)	keyword
+1040	smart grids | (SGs)	keyword
+1041	stack hybrid autoencoders | (SHAEs)	keyword
+1042	selective harmonic elimination pulsewidth modulation | (SHEPWM)	keyword
+1043	structural health monitoring | (SHM)	keyword
+1044	Swarm Intelligence | (SI)	keyword
+1045	self-imitation learning | (SIL)	keyword
+1046	Social Internet of Things | (SIoT)	keyword
+1047	service-level agreement | (SLA)	keyword
+1048	service-level agreements | (SLAs)	keyword
+1049	social learning evolution | (SLE)	keyword
+1050	spatial light modulators | (SLMs)	keyword
+1051	source-location privacy | (SLP)	keyword
+1052	Simulink/Stateflow | (SLSF)	keyword
+1053	SRv6-based multidomain integrated architecture | (SMA)	keyword
+1054	sliding-mode control | (SMC)	keyword
+1055	spatially multidifferential CNN | (SMCNN)	keyword
+1056	smart microgrid | (SMG)	keyword
+1057	simultaneous molecular information and energy transfer | (SMIET)	keyword
+1058	stochastic model predictive controller | (SMPC)	keyword
+1059	support multimode tensor machine | (SMTM)	keyword
+1060	smart meters | (SMs)	keyword
+1061	social network | (SN)	keyword
+1062	signal-to-noise ratio | (SNR)	keyword
+1063	SMA node trusted set | (SNTS)	keyword
+1064	sensor nodes | (SNs)	keyword
+1065	service-oriented architecture | (SOA)	keyword
+1066	state-of-charge | (SOC)	keyword
+1067	Salient object detection | (SOD)	keyword
+1068	service offloading | (SOL)	keyword
+1069	soft open point | (SOP)	keyword
+1070	service-oriented SystemJ | (SOSJ)	keyword
+1071	single port access surgery | (SPAS)	keyword
+1072	sparse principal component thermography | (SPCT)	keyword
+1073	secure and auditable private data sharing | (SPDS)	keyword
+1074	Searchable public-key encryption | (SPE)	keyword
+1075	single point of failure | (SPOF)	keyword
+1076	spatial pyramid pooling network | (SPP-Net)	keyword
+1077	service popularity-based smart resources partitioning | (SPSRP)	keyword
+1078	solar photovoltaic | (SPV)	keyword
+1079	self-redactable blockchain | (SRB)	keyword
+1080	secure random key distribution | (SRKD)	keyword
+1081	storage room overhead | (SRO)	keyword
+1082	Stream Reservation Protocol | (SRP)	keyword
+1083	series | (SS)	postponed
+1084	salp swarm algorithm | (SSA)	keyword
+1085	sparse autoencoder | (SSAE)	keyword
+1086	slot scheduling and data transmission | (SSDT)	keyword
+1087	Shanghai stock price index | (SSI)	keyword
+1088	sockets layer/transport layer security | (SSL/TLS)	keyword
+1089	simplified swarm optimization | (SSO)	keyword
+1090	specified sliding surface | (SSS)	keyword
+1091	sparse variational autoencoder | (SSVAE)	keyword
+1092	spatio-temporal | (ST)	keyword
+1093	spatiotemporal decomposition agent | (STDA)	keyword
+1094	sparse tensor factorization | (STF)	keyword
+1095	Short-term load forecasting | (STLF)	keyword
+1096	support tensor machine | (STM)	keyword
+1097	spatio-temporal multigraph convolutional network | (STMGCN)	keyword
+1098	self-Triggered sampling | (STS)	keyword
+1099	system for distributed multi-cloud storage | (STSM)	keyword
+1100	speeded-up robust features | (SURF)	keyword
+1101	secondary users | (SUs)	keyword
+1102	surface vehicle | (SV)	keyword
+1103	support vector machine | (SVM)	keyword
+1104	support vector regression | (SVR)	keyword
+1105	short-term voltage stability | (SVS)	keyword
+1106	sine-wave | (SW)	keyword
+1107	Solar water heating | (SWH)	keyword
+1108	Simultaneous wireless information and power transfer | (SWIPT)	keyword
+1109	Semantic Web Rule Language | (SWRL)	keyword
+1110	Significant Permission IDentification | (SigPID)	keyword
+1111	state-of-charge | (SoC)	keyword
+1112	state-of-health | (SoH)	keyword
+1113	social recommendations | (SoR)	keyword
+1114	Social linked data | (Solid)	keyword
+1115	span flat-lattice transformer | (Span-FLAT)	keyword
+1116	Sport facility Visual analysis system | (SpoVis)	keyword
+1117	systems modeling language | (SysML)	keyword
+1118	Type 2 diabetes mellitus | (T2DM)	keyword
+1119	torque-sensing-based admittance controller | (TAC)	keyword
+1120	trigger-action programming | (TAP)	keyword
+1121	transmit antenna selection | (TAS)	keyword
+1122	time average transmission success ratio | (TATSR)	keyword
+1123	trust-based active detection | (TBAD)	keyword
+1124	total cost | (TC)	keyword
+1125	threshold chameleon hash | (TCH)	keyword
+1126	transmission control protocol | (TCP)	keyword
+1127	thermal discomfort | (TD)	keyword
+1128	time division multiple access | (TDMA)	keyword
+1129	time difference of arrival | (TDOA)	keyword
+1130	terminal devices | (TDs)	keyword
+1131	transfer feature | (TF)	keyword
+1132	transient fault signature | (TFS)	keyword
+1133	Task Group | (TG)	keyword
+1134	total harmonic distortion | (THD)	keyword
+1135	terahertz time-domain spectroscopy | (THz-TDS)	keyword
+1136	topology identification | (TI)	keyword
+1137	Taylor-Kalman-Fourier filter | (TKF)	keyword
+1138	teaching-learning-based optimization algorithm | (TLBO)	keyword
+1139	three-level framework based on improved back propagation | (TLBP)	keyword
+1140	time-varying multiple linear model | (TMLM)	keyword
+1141	temporally multidifferential LSTM | (TMLSTM)	keyword
+1142	transfer multiobjective optimization algorithm | (TMOOA)	keyword
+1143	try-once-discard | (TOD)	keyword
+1144	transmission power | (TP)	keyword
+1145	transition probability matrix | (TPM)	keyword
+1146	three-phase optimal power flow | (TPOPF)	keyword
+1147	true positive rate | (TPR)	keyword
+1148	trip quality measurement system | (TQMS)	keyword
+1149	truncated reweighting norm minimization | (TRNM)	keyword
+1150	tendon-sheath | (TS)	keyword
+1151	time-slotted channel hopping | (TSCH)	keyword
+1152	transfer learning-based secure data fusion strategy | (TSDF)	keyword
+1153	time series forecasting | (TSF)	keyword
+1154	task scheduling in fog computing | (TSFC)	keyword
+1155	time-sensitive networking | (TSN)	keyword
+1156	Transmission System Operator | (TSO)	keyword
+1157	trust-based security system | (TSS)	keyword
+1158	time-sensitive software-defined network | (TSSDN)	keyword
+1159	twin support regression vector machine | (TSVR)	keyword
+1160	travel time estimation | (TTE)	keyword
+1161	time-to-failure | (TTF)	keyword
+1162	trusted third party | (TTP)	keyword
+1163	total variation | (TV)	keyword
+1164	technical virtual power plant | (TVPP)	keyword
+1165	time-weighted dot product | (TWDP)	keyword
+1166	thermal-wave radar | (TWR)	keyword
+1167	Tensorial Memetic Algorithm | (TeMA)	keyword
+1168	time-of-arrival | (ToA)	keyword
+1169	topology and multidimensional scaling method | (Topo-MDS)	keyword
+1170	Unified Architecture | (UA)	keyword
+1171	underwater acoustic sensor network | (UASN)	keyword
+1172	underwater acoustic sensor networks | (UASNs)	keyword
+1173	unmanned aerial vehicles | (UAV)	keyword
+1174	unmanned aerial vehicles | (UAVs)	keyword
+1175	utility center | (UC)	keyword
+1176	University of California, Los Angeles | (UCLA)	keyword
+1177	UC Merced dataset | (UCM)	keyword
+1178	ultracapacitors | (UCs)	keyword
+1179	user equipments | (UEs)	keyword
+1180	unbiased finite-impulse response | (UFIR)	keyword
+1181	ultra high frequency | (UHF)	keyword
+1182	unequal interval | (UI)	keyword
+1183	unequal interval with equal duration | (UIED)	keyword
+1184	unscented Kalman filter | (UKF)	keyword
+1185	unified modeling language | (UML)	keyword
+1186	unmanned mobile machines | (UMMs)	keyword
+1187	unity power factor | (UPF)	keyword
+1188	ultra-reliable and low-latency communication | (URLLC)	keyword
+1189	ultrasound | (US)	keyword
+1190	unbundled smart meter | (USM)	keyword
+1191	unmanned surface vehicle | (USV)	keyword
+1192	unscented transform | (UT)	keyword
+1193	variational autoencoder | (VAE)	keyword
+1194	vehicular ad-hoc networks | (VANETs)	keyword
+1195	Virtually coupled train sets | (VCTS)	keyword
+1196	Verifiable data streaming | (VDS)	keyword
+1197	Vehicular energy network | (VEN)	keyword
+1198	variational graph recurrent attention neural networks | (VGRAN)	keyword
+1199	visible impact damage | (VID)	keyword
+1200	Virtual Layer 2 | (VL2)	keyword
+1201	variational long short-term memory | (VLSTM)	keyword
+1202	Virtual metrology | (VM)	keyword
+1203	virtual machines | (VMs)	keyword
+1204	virtual network embedding | (VNE)	keyword
+1205	virtual networks | (VNs)	keyword
+1206	virtual power plant | (VPP)	keyword
+1207	voltage regulator | (VR)	keyword
+1208	video summarization | (VS)	keyword
+1209	voltage source converter | (VSC)	keyword
+1210	voltage source converters | (VSCs)	keyword
+1211	variable speed heat pump | (VSHP)	keyword
+1212	vehicular social networks | (VSNs)	keyword
+1213	vibrothermography | (VT)	keyword
+1214	voltage unbalance | (VU)	keyword
+1215	VU compensation schedule | (VU-CS)	keyword
+1216	variable-wise weighted stacked autoencoder | (VW-SAE)	keyword
+1217	water distribution system operators | (W-DSOs)	keyword
+1218	wide-area controller | (WAC)	keyword
+1219	wide-attention and deep-composite | (WADC)	keyword
+1220	wide-area measurement | (WAM)	keyword
+1221	wide-area monitoring and control systems | (WAMCS)	keyword
+1222	wide-area measurement system | (WAMS)	keyword
+1223	wide area measurement systems | (WAMSs)	keyword
+1224	weighted anisotropic nonlocal structure tensor | (WANST)	keyword
+1225	wireless body area networks | (WBAN)	keyword
+1226	wireless body area networks | (WBANs)	keyword
+1227	wireless body sensor networks | (WBSNs)	keyword
+1228	WPD-CNN-LSTM | (WCL)	keyword
+1229	water distribution system | (WDS)	keyword
+1230	water distribution systems | (WDSs)	keyword
+1231	wave energy converters | (WECs)	keyword
+1232	wireless energy harvesting | (WEH)	keyword
+1233	wind farms | (WFs)	keyword
+1234	wireless local area network | (WLAN)	keyword
+1235	Wireless LANs | (WLANs)	keyword
+1236	wireless mesh sensor networks | (WMNs)	keyword
+1237	wireless medical sensor networks | (WMSNs)	keyword
+1238	whale optimization algorithm | (WOA)	keyword
+1239	workpiece | (WP)	keyword
+1240	wireless power network | (WPN)	keyword
+1241	wind power producer | (WPP)	keyword
+1242	wireless power transfer | (WPT)	keyword
+1243	wolf search algorithm | (WSA)	keyword
+1244	wheel slip control | (WSC)	keyword
+1245	wireless sensor network | (WSN)	keyword
+1246	Wireless sensor networks | (WSNs)	keyword
+1247	wind turbine | (WT)	keyword
+1248	wireless time sensitive networking | (WTSN)	keyword
+1249	wind turbines | (WTs)	keyword
+1250	wastewater treatment processes | (WWTPs)	keyword
+1251	web virtual reality geographical information system | (WebVRGIS)	keyword
+1252	wireless NCSs | (WiNCSs)	keyword
+1253	wake-up call | (WuC)	keyword
+1254	wake-up radio | (WuR)	keyword
+1255	zero moment point | (ZMP)	keyword
+1256	bootstrap aggregating | (bagging)	keyword
+1257	critical machine-type communication | (cMTC)	keyword
+1258	collaborative robots | (cobots)	keyword
+1259	divide-and-conquer approach to the i-MILP | (dc-MILP)	keyword
+1260	enhanced mobile broadband | (eMBB)	keyword
+1261	electrode-level battery state of health | (eSOH)	keyword
+1262	electronic textile | (eTextile)	keyword
+1263	gNodeB | (gNB)	keyword
+1264	integrated mixed-integer linear programming formulation | (i-MILP)	keyword
+1265	identically distributed | (i.i.d.)	keyword
+1266	industrial cyber-physical systems | (iCPS)	keyword
+1267	inspired elephant herding optimization | (iEHO)	keyword
+1268	IP parallel redundancy protocol | (iPRP)	keyword
+1269	k nearest neighbors | (kNN)	keyword
+1270	multilayer fusion region proposal network | (mLRPN)	keyword
+1271	massive machine-type communications | (mMTC)	keyword
+1272	Massive machine-type Internet of Things (IoT) communication | (mMTIC)	keyword
+1273	multidimensional region-based fully convolutional network | (mRFCN)	keyword
+1274	micro-Kalman filter | (micro-KF)	keyword
+1275	Millimeter wave | (mmW)	keyword
+1276	non-independently and identically distributed | (non-IID)	keyword
+1277	parallel artificial bee colony | (pABC)	keyword
+1278	surface electromyogram | (sEMG)	keyword
+1279	s preferences, and then finds Pareto-optimal compromises | (seeds)	keyword
+1280	several groups, each of which is optimized by a subpopulation | (species)	keyword
+1281	the ECPUB and | (t, n)	noise
+1282	tele-intensive care unit | (tele-ICU)	keyword
+1283	value-driven RDT | (vdRDT)	keyword
+1284	wireless SHARP | (w-SHARP)	keyword
